@@ -1,0 +1,13 @@
+{
+  "fields": [
+    {
+      "doc": "Id of the order filed",
+      "name": "order_id",
+      "type": "string"
+    }
+  ],
+  "name": "OrderCreatedEvent",
+  "namespace": "pl.rabbadak.order",
+  "type": "record",
+  "version": "2"
+}
